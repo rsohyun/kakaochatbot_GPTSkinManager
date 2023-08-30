@@ -23,7 +23,7 @@ async def send_response(callback_url, response):
         print("Response successfully sent")
 
 
-# GPT에서 답변을 얻는 함수 (토큰 관리 로직 포함)  --> 답변을 카톡 서버로 보내는 함수() 호출
+# GPT에서 답변을 얻는 함수 (토큰 관리 로직 포함)  --> 답변을 카톡 서버로 보내는 함수 호출
 async def get_answer(skin_question, user_utterance, callback_url, session_id):
     bot = GPT(apikey="<please put your apikey>") # bot 초기화
     if session_id in sessions: # 기존 대화가 있는지 확인해서 발화 정보 가져오기

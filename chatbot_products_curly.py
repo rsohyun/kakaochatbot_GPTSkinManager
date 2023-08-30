@@ -16,7 +16,7 @@ from gpt_question import send_response
 import json
 
 
-#올리브영 제품 실시간 크롤링
+#뷰티컬리 제품 실시간 크롤링
 async def oliveyoung_crawling(user_request):
     print('user_request : ',user_request)
     skin_type = user_request.get('action', {}).get('params', {}).get('skin_type')# 파라미터로 넘어온 변수명 주의

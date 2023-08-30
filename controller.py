@@ -31,7 +31,7 @@ async def call_crawling():
 
     return await question_products(user_request)
 
-# 뷰티컬리 크롤링 호출 함수
+# 뷰티 컬리 크롤링 호출 함수
 @application.route("/products_curly", methods=["POST"])
 async def call_crawling_curly():
     user_request = await request.json
