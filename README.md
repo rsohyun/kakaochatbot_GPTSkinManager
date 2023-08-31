@@ -36,7 +36,7 @@ ChatGPT와 크롤링을 활용하여 피부 고민 상담 및 기초 제품을 �
 - selenium 4.11.2
 
 ## 시연 영상
-<img src="https://github.com/rsohyun/kakaochatbot_GPTSkinManager/assets/97154465/fd3037cc-1a69-465d-9a6e-875fe196e8c9">
+![류소현_개인챗봇 시연영상 30초 downsize](https://github.com/rsohyun/kakaochatbot_GPTSkinManager/assets/97154465/ac65b30f-dc2f-4695-a594-6f4d71773288)
   
 ## 🧩 주요 기능
 ### 1. 피부상담 
