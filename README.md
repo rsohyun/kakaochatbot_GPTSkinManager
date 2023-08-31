@@ -14,7 +14,7 @@ ChatGPT와 크롤링을 활용하여 피부 고민 상담 및 기초 제품을 �
 - selenium 4.11.2
   
 ## 🧩 주요 기능
-### 1. 피부상담
+### 1. 피부상담 [주요기능Wiki](https://github.com/rsohyun/kakaochatbot_GPTSkinManager/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-:-%EB%82%B4-%EC%A3%BC%EB%B3%80-%ED%94%BC%EB%B6%80%EA%B3%BC-%EC%B0%BE%EA%B8%B0)
 - 챗봇 사용자의 발화를 받아 prompt engineering이 적용된 입력값을 Chatgpt에게 전달 및 답변 제공 
 ### 2. 제품추천: 올리브영, 뷰티컬리
 - 사용자가 스킨 타입 선택, 올리브영과 뷰티 컬리 중 선택
