@@ -34,6 +34,9 @@ ChatGPT와 크롤링을 활용하여 피부 고민 상담 및 기초 제품을 �
 - Quart 0.18.4
 - [Asycgpt](https://github.com/Just1z/asyncgpt)
 - selenium 4.11.2
+
+## 시연 영상
+<img src="https://github.com/rsohyun/kakaochatbot_GPTSkinManager/assets/97154465/fd3037cc-1a69-465d-9a6e-875fe196e8c9">
   
 ## 🧩 주요 기능
 ### 1. 피부상담 
